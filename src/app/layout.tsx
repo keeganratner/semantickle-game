@@ -31,7 +31,7 @@ export default function RootLayout({
             </a>
             {" "}&middot;{" "}
             <a
-              href="https://linkedin.com/in/keeganratner"
+              href="https://www.linkedin.com/in/keegan-ratner/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:opacity-80 transition-opacity"
